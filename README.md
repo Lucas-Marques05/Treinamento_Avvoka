@@ -52,6 +52,12 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 
 - Gênero = condicionar colocando variaveis de masculino e feminino, Nacionalidade ser uma lista aberta
 
+## ✅ Operações e Loops no Avvoka
+
+### 🔄 Uso de Loops
+- Permite repetir elementos dinamicamente, como listas de partes contratantes ou serviços.
+- Exemplo de loop para listar partes do contrato:
+
 ### 🔗 Tipos de API suportadas
 # Integrações com APIs no Avvoka
 
@@ -137,9 +143,13 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 
 **Imagem 1:** Processo de formatação no Word
 
-**Imagem 2:** Exemplo de questionário no Avvoka
+**Imagem 2:** Automação Avvoka 
 
-**Imagem 3:** Configuração de API
+**Imagem 3:** Exemplo de questionário no Avvoka
+
+**Imagem 4:** Operações e Loops
+
+**Imagem 5:** Configuração de API
 
 ---
 
