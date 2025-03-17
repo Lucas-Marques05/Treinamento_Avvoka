@@ -54,6 +54,8 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 
 ## ✅ Operações e Loops no Avvoka
 
+ Nome das variaveis das operações começam com OP_XXXX_XXX
+
 ### 🔄 Uso de Loops
 - Permite repetir elementos dinamicamente, como listas de partes contratantes ou serviços.
 - Exemplo de loop para listar partes do contrato:
