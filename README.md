@@ -115,6 +115,7 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 ## 🎯 Observações Importantes
 - Sempre que as variáveis estiverem fora do padrão, precisamos ser informados.
 - Todas as partes do documento precisam conter as mesmas variáveis.
+- Não utilize vírgulas. Separe os reais dos centavos utilizando um ponto. Ex.: 1500.99
 
 ---
 
