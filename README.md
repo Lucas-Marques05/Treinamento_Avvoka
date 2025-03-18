@@ -57,7 +57,7 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 
 ### 🔄 Uso de Loops
 - Permite repetir elementos dinamicamente, como listas de partes contratantes ou serviços.
-- Exemplo de loop para listar partes do contrato:
+- Exemplo de loop: [Clique aqui](#4-operações-e-loops)
 
 ### 🔗 Tipos de API suportadas
 # Integrações com APIs no Avvoka
@@ -142,15 +142,15 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 
 ## ✅ Espaços para imagens explicativas
 
-**Imagem 1:** Processo de formatação no Word
+### 1. Processo de formatação no Word
 
-**Imagem 2:** Automação Avvoka 
+### 2. Automação Avvoka 
 
-**Imagem 3:** Exemplo de questionário no Avvoka
+### 3. Exemplo de questionário no Avvoka
 
-**Imagem 4:** Operações e Loops
+### 4. Operações e Loops
 
-**Imagem 5:** Configuração de API
+### 5. Configuração de API
 
 ---
 
