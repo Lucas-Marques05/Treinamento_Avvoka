@@ -10,17 +10,16 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 ### 📌 Etapas Iniciais
 1. Leitura crítica do documento enviado pelo cliente
 2. Formatação do documento antes de subir para Avvoka
-3. Testar a formatação
-4. Corrigir a formatação
+3. Subir o arquivo formatado
+4. Testar a formatação
+5. Corrigir a formatação
 
 ### 🚀 Automação no Avvoka
-5. Subir o arquivo formatado
-6. Criar variáveis para dados dinâmicos
+6. Fazer Automação
 7. Testar a automação
 8. Corrigir pequenos erros
-9. Criar o questionário
-10. Configurar APIs (opcional)
-11. Publicar o documento
+9. Configurar APIs (opcional)
+10. Publicar o documento
 
 ---
 
@@ -31,22 +30,22 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 - Numeração
 - Estilo padrão (sem negrito ou itálico)
 - Uso do TAB para mudar o nível da numeração
-- Nome das variáveis com padrão `Adoc_Corpo`, `Adoc_Recuo`, `Adoc_Numeracao`, `Adoc_Citacao`, etc.
+- Nome dos estilos com padrão `Adoc_Corpo`, `Adoc_Recuo`, `Adoc_Numeracao`, `Adoc_Citacao`, etc.
 
 ---
 
 ## ✅ Regras de Automação no Avvoka
-
+- # **Não mexer na automação após exportar o DOCX.**
 ### ⚙️ Boas práticas
-- **Não mexer na automação após exportar o DOCX.**
+
 - **Atentar-se aos espaços entre vírgulas** (não colocar vírgulas dentro de variáveis).
 - Criar variáveis no padrão `SNAKE_CASE` e sem acentos.
 - Variáveis padrão como `POLO_ATIVO`, `POLO_PASSIVO`, `DATA_DOC` e `NUM_VAR`.
-- Para criar um bloco vazio, usar um ponto final `.` pintado de branco.
+- Para criar um bloco vazio, usar um ponto final `.` pintado da cor de fundo do documento.
 - Seção
 - ##CAIXA ALTA
 
-- Texto explicativo azul(226ce0) e negrito
+- Texto explicativo azul(226ce0), negrito e em CAIXA ALTA
 
 - Itálico nas caixas de seleção
 
