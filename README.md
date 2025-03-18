@@ -143,15 +143,58 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 
 ## ✅ Espaços para imagens explicativas
 
-### 1. Processo de formatação no Word
+## 1. Processo de formatação no Word
+![Word](/imgs/1.png)
+![Word](/imgs/2.png)
+![Word](/imgs/3.png)
+![Word](/imgs/4.png)
+![Word](/imgs/5.png)
+![Word](/imgs/6.png)
 
-### 2. Automação Avvoka 
+## 2. Automação Avvoka 
+![Automação Avvoka](/imgs/7.png)
+![Automação Avvoka](/imgs/8.png)
+![Automação Avvoka](/imgs/9.png)
+![Automação Avvoka](/imgs/10.png)
+![Automação Avvoka](/imgs/11.png)
+![Automação Avvoka](/imgs/12.png)
+![Automação Avvoka](/imgs/13.png)
 
-### 3. Exemplo de questionário no Avvoka
+## 3. Operações e Loops
+![Operações e Loops](/imgs/14.png)
+![Operações e Loops](/imgs/15.png)
+![Operações e Loops](/imgs/16.png)
+![Operações e Loops](/imgs/17.png)
+![Operações e Loops](/imgs/18.png)
+![Operações e Loops](/imgs/19.png)
+![Operações e Loops](/imgs/20.png)
+![Operações e Loops](/imgs/21.png)
+![Operações e Loops](/imgs/22.png)
+![Operações e Loops](/imgs/23.png)
+![Operações e Loops](/imgs/24.png)
+![Operações e Loops](/imgs/25.png)
+![Operações e Loops](/imgs/26.png)
+![Operações e Loops](/imgs/27.png)
+![Operações e Loops](/imgs/28.png)
+![Operações e Loops](/imgs/29.png)
+![Operações e Loops](/imgs/30.png)
+![Operações e Loops](/imgs/31.png)
+![Operações e Loops](/imgs/32.png)
+![Operações e Loops](/imgs/33.png)
+![Operações e Loops](/imgs/34.png)
+![Operações e Loops](/imgs/35.png)
 
-### 4. Operações e Loops
+## 4. Exemplo de questionário no Avvoka
+![Questionário](/imgs/36.png)
+![Questionário](/imgs/37.png)
+![Questionário](/imgs/38.png)
+![Questionário](/imgs/39.png)
+![Questionário](/imgs/40.png)
+![Questionário](/imgs/41.png)
+
 
 ### 5. Configuração de API
+![Configuração da API](/imgs/42.png)
 
 ---
 
