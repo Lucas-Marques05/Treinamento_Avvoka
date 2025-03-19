@@ -51,6 +51,8 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 
 - Gênero = condicionar colocando variaveis de masculino e feminino, Nacionalidade ser uma lista aberta
 
+- Estados Civis: Casado, Solteiro, Divorciado, Separado e Viúvo
+
 ## ✅ Operações e Loops no Avvoka
 
  Nome das variaveis das operações começam com OP_XXXX_XXX
