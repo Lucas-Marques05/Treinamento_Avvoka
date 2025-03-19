@@ -52,6 +52,8 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 - Gênero = condicionar colocando variaveis de masculino e feminino, Nacionalidade ser uma lista aberta
 
 - Estados Civis: Casado, Solteiro, Divorciado, Separado e Viúvo
+  
+- Não utilize vírgulas. Separe os reais dos centavos utilizando um ponto. Ex.: 1500.99
 
 ## ✅ Operações e Loops no Avvoka
 
