@@ -183,18 +183,20 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 ![Operações e Loops](/imgs/33.png)
 ![Operações e Loops](/imgs/34.png)
 ![Operações e Loops](/imgs/35.png)
+![Operações e Loops](/imgs/36.png)
+![Operações e Loops](/imgs/37.png)
+![Operações e Loops](/imgs/38.png)
 
 ## 4. Exemplo de questionário no Avvoka
-![Questionário](/imgs/36.png)
-![Questionário](/imgs/37.png)
-![Questionário](/imgs/38.png)
 ![Questionário](/imgs/39.png)
 ![Questionário](/imgs/40.png)
 ![Questionário](/imgs/41.png)
-
+![Questionário](/imgs/42.png)
+![Questionário](/imgs/43.png)
+![Questionário](/imgs/44.png)
 
 ### 5. Configuração de API
-![Configuração da API](/imgs/42.png)
+![Configuração da API](/imgs/45.png)
 
 ---
 
