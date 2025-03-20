@@ -57,6 +57,7 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 
 - Quando uma variáveis chegar aos 180 usos, criar uma operação para utilizar mais vezes
 
+- Selecionar Variável colocando um ~ + ESPAÇO (para linkar uma variável a outra)
 
 ## ✅ Operações e Loops no Avvoka
 
