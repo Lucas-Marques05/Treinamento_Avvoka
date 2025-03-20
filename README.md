@@ -55,6 +55,9 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
   
 - Colocar como DICA (Não utilize vírgulas. Separe os reais dos centavos utilizando um ponto. Ex.: 1500.99)
 
+- Quando uma variáveis chegar aos 180 usos, criar uma operação para utilizar mais vezes
+
+
 ## ✅ Operações e Loops no Avvoka
 
  Nome das variaveis das operações começam com OP_XXXX_XXX
