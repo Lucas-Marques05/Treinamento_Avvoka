@@ -47,7 +47,7 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 
 - Texto explicativo azul(226ce0), negrito e em CAIXA ALTA
 
-- Itálico nas caixas de seleção
+- Itálico nas caixas de seleção _EXEMPLO_
 
 - Gênero = condicionar colocando variaveis de masculino e feminino, Nacionalidade ser uma lista aberta
 
