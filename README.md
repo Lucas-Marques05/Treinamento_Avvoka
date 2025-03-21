@@ -51,6 +51,14 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 
 - Gênero = condicionar colocando variaveis de masculino e feminino, Nacionalidade ser uma lista aberta
 
+- Estados Civis: Casado, Solteiro, Divorciado, Separado e Viúvo
+
+- Colocar como DICA (Não utilize vírgulas. Separe os reais dos centavos utilizando um ponto. Ex.: 1500.99)
+
+- Quando uma variáveis chegar aos 180 usos, criar uma operação para utilizar mais vezes
+
+- Selecionar Variável colocando um ~ + ESPAÇO (para linkar uma variável a outra)
+
 ## ✅ Operações e Loops no Avvoka
 
  Nome das variaveis das operações começam com OP_XXXX_XXX
