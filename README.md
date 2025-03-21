@@ -65,7 +65,7 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 
 ### 🔄 Uso de Loops
 - Permite repetir elementos dinamicamente, como listas de partes contratantes ou serviços.
-- Exemplo de loop: [Clique aqui](#)
+- Exemplo de loop: [Clique aqui](#3-operações-e-loops)
 
 ### 🔗 Tipos de API suportadas
 # Integrações com APIs no Avvoka
