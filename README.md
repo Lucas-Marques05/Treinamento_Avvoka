@@ -28,7 +28,7 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 ### 🎯 Criação de Estilos
 - Alinhamento
 - Numeração
-- Estilo padrão (sem negrito ou itálico)
+- Criar Estilo padrão (sem negrito ou itálico)
 - Uso do TAB para mudar o nível da numeração
 - Nome dos estilos com padrão `Adoc_Corpo`, `Adoc_Recuo`, `Adoc_Numeracao`, `Adoc_Citacao`, etc.
 
@@ -57,7 +57,7 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 
 ### 🔄 Uso de Loops
 - Permite repetir elementos dinamicamente, como listas de partes contratantes ou serviços.
-- Exemplo de loop: [Clique aqui](#4-operações-e-loops)
+- Exemplo de loop: [Clique aqui](#)
 
 ### 🔗 Tipos de API suportadas
 # Integrações com APIs no Avvoka
@@ -143,60 +143,158 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 
 ## ✅ Espaços para imagens explicativas
 
-## 1. Processo de formatação no Word
+# 1. Processo de formatação no Word
 ![Word](/imgs/1.png)
+### PASSO 1: Criar estilos para padronizar o documento.
+### PASSO 2: Tabela de numeração para número de tópicos e cláusulas.
+---
 ![Word](/imgs/2.png)
+### PASSO 3: Selecionar o tipo de numeração.
+---
 ![Word](/imgs/3.png)
+### PASSO 4: Definir o nível dos parágrafos.
+### PASSO 5: Tipos de níveis prontos e exemplos.
+### PASSO 6: Para configurar o nível manualmente.
+### OBS 1: Estilos, como cores da fonte, negrito, itálico, etc.
+---
 ![Word](/imgs/4.png)
+### PASSO 7: Tela de configuração dos níveis.
+---
 ![Word](/imgs/5.png)
+### OBS 2: Lista de comentários a ser seguido para a automação, e o que o cliente deseja.
+---
 ![Word](/imgs/6.png)
-
-## 2. Automação Avvoka 
+### OBS 3: Tela para mostrar estilos utilizados.
+--- 
+---
+# 2. Automação Avvoka 
 ![Automação Avvoka](/imgs/7.png)
+### OBS 1: Opção Início para alterar alguma fonte ou colocar diretamente estilos pela Avvoka.
+---
 ![Automação Avvoka](/imgs/8.png)
+### OBS 2: Opção Inserir possibilita colocar e criar tabelas.
+---
 ![Automação Avvoka](/imgs/9.png)
+### OBS 3: Opção Estilos possibilita ver os estilos que foram aplicados do Word.
+---
 ![Automação Avvoka](/imgs/10.png)
+### OBS 4: Opção Automação é onde criamos as variáveis, condicionais, loops e colocamos as operações.
+---
 ![Automação Avvoka](/imgs/11.png)
+### OBS 5: Cria a variável.
+---
 ![Automação Avvoka](/imgs/12.png)
+### OBS 6: Insere condição de linha.
+---
 ![Automação Avvoka](/imgs/13.png)
-
+### OBS 7: Insere condição de bloco.
+---
 ## 3. Operações e Loops
 ![Operações e Loops](/imgs/14.png)
+### OBS 8: Cria o loop. 
+---
 ![Operações e Loops](/imgs/15.png)
+### OBS 8.1: Aqui inserimos o nome do loop.
+---
 ![Operações e Loops](/imgs/16.png)
+### OBS 8.2: Em caso de loop escravo, aqui escolhemos o loop mestre pelo nome de outro loop.
+---
 ![Operações e Loops](/imgs/17.png)
+### OBS 8.3: Muda o nome do controlador do repetidor, onde muda o nome do botão para "acrescentar" algo no loop.
+---
 ![Operações e Loops](/imgs/18.png)
+### OBS 9: Inserir operação.
+---
 ![Operações e Loops](/imgs/19.png)
+### OBS 10: Lista onde ficam as operações criadas.
+---
 ![Operações e Loops](/imgs/20.png)
+### OBS 10.1: Exemplo de operação para formatar valor em dinheiro.
+---
 ![Operações e Loops](/imgs/21.png)
+### OBS 10.2: Exemplo de operação com Regex, para modificar uma palavra para encaixar em uma frase de forma coesa.
+---
 ![Operações e Loops](/imgs/22.png)
+### OBS 10.3: Continuação da OBS 10.3.
+---
 ![Operações e Loops](/imgs/23.png)
+### OBS 10.4: Criamos operações assim em casos da variável estar próxima dos 180 usos.
+---
 ![Operações e Loops](/imgs/24.png)
+### OBS 10.5: Criamos operações assim em casos da variável estar próxima dos 180 usos.
+---
 ![Operações e Loops](/imgs/25.png)
+### OBS 10.6: Exemplo de operação para formatar valor em dinheiro.
+---
 ![Operações e Loops](/imgs/26.png)
+### OBS 10.7: Exemplo de operação para formatar o tipo data.
+---
 ![Operações e Loops](/imgs/27.png)
+### OBS 10.8: Operação para pegar a data do sistema e utilizar a data atual do computador.
+---
 ![Operações e Loops](/imgs/28.png)
+### OBS 10.9: Operação para concatenar algo e fazer um conjunto, fazendo por exemplo uma lista.
+---
 ![Operações e Loops](/imgs/29.png)
+### OBS 10.10: Operação para contar quantos elementos possui na lista.
+---
 ![Operações e Loops](/imgs/30.png)
+### OBS 10.11: Exemplo de operação para flexão de gênero.
+---
 ![Operações e Loops](/imgs/31.png)
+### OBS 10.11.1: Continuação do exemplo - flexão de gênenro.
+---
 ![Operações e Loops](/imgs/32.png)
+### OBS 10.11.2: Continuação do exemplo - flexão de gênenro.
+---
 ![Operações e Loops](/imgs/33.png)
+### OBS 10.11.3: Continuação do exemplo - flexão de gênenro.
+---
 ![Operações e Loops](/imgs/34.png)
+### OBS 10.11.4: Continuação do exemplo - flexão de gênenro.
+---
 ![Operações e Loops](/imgs/35.png)
+### OBS 10.11.5: Continuação do exemplo - flexão de gênenro.
+---
 ![Operações e Loops](/imgs/36.png)
+### OBS 10.12: Exemplo de operação de loop em linha.
+---
 ![Operações e Loops](/imgs/37.png)
+### OBS 10.12.1: Continuação do exemplo de operação de loop em linha.
+---
 ![Operações e Loops](/imgs/38.png)
-
-## 4. Exemplo de questionário no Avvoka
+### OBS 10.12.2: Continuação do exemplo de operação de loop em linha.
+---
+![Operações e Loops](/imgs/47.png)
+### OBS 10.13: Para linkar uma variável a outra aperte ~ + ESPAÇO para fazer essa conexão.
+---
+![Operações e Loops](/imgs/48-modified.png)
+### OBS 10.14: Exemplo de operação de soma onde começa em 1 e vai adicionando +1 conforme aumenta o loop.
+---
+# 4. Exemplo de questionário no Avvoka
 ![Questionário](/imgs/39.png)
+### OBS 11: Caixa de Seções criadas, as quais têm um fundo azul claro.
+### OBS 12: Perguntas do questionário.
+---
 ![Questionário](/imgs/40.png)
+### OBS 13: Opções de tipos de questionários podendo ser, texto, número, do tipo data, botões, etc.
+---
 ![Questionário](/imgs/41.png)
+### OBS 14: Outras opções como listas. 
+---
 ![Questionário](/imgs/42.png)
+### OBS 15: Aqui conseguimos ver a quantidade de vezes que foi utilizado uma variável, onde foi utilizada e alterar o nome da mesma.
+---
 ![Questionário](/imgs/43.png)
+### OBS 16: No Histórico conseguimos ver os SAVES anteriores.
+---
 ![Questionário](/imgs/44.png)
+### OBS 17: Aqui configuramos o título do documento gerado de forma dinâmica.
+---
 
-### 5. Configuração de API
+# 5. Configuração de API
 ![Configuração da API](/imgs/45.png)
+### OBS 18: Aqui configuramos as API's que vão ser usadas, por padrão **IRF_XXXXXX_CPF**, **IRF_XXXXXX_CNPJ**, **ICEP_XXXXXX_CEP** e **API_VALOR_XXXXXX_BRL**.
 
 ---
 
