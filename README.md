@@ -282,7 +282,7 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 # 4. Exemplo de questionário no Avvoka
 ![Questionário](/imgs/39.png)
 ### OBS 11: Caixa de Seções criadas, as quais têm um fundo azul claro.
-### OBS 12: Perguntas do questionário.
+### OBS 12: Perguntas do questionário, onde possuir [AUTO] é preenchido automaticamente.
 ---
 ![Questionário](/imgs/40.png)
 ### OBS 13: Opções de tipos de questionários podendo ser, texto, número, do tipo data, botões, etc.
