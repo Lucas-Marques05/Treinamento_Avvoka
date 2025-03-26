@@ -62,6 +62,8 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 - **AO MEXER EM MODELOS, NÃO CLIQUE EM "UNPUBLISH". PRIMEIRO, SALVE AS ALTERAÇÕES E, EM SEGUIDA, DESPUBLIQUE E PUBLIQUE NA SEQUÊNCIA.**
     - Isso evita que o cliente fique sem acesso ao modelo.
 
+- Apagar os documentos gerados na aba "Meus documentos" na Avvoka ao final do dia. 
+
 ## ✅ Operações e Loops no Avvoka
 
  Nome das variaveis das operações começam com OP_XXXX_XXX
