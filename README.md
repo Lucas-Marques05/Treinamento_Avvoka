@@ -62,7 +62,13 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 - **AO MEXER EM MODELOS, NÃO CLIQUE EM "UNPUBLISH". PRIMEIRO, SALVE AS ALTERAÇÕES E, EM SEGUIDA, DESPUBLIQUE E PUBLIQUE NA SEQUÊNCIA.**
     - Isso evita que o cliente fique sem acesso ao modelo.
 
-- Apagar os documentos gerados na aba "Meus documentos" na Avvoka ao final do dia. 
+- Apagar os documentos gerados na aba "Meus documentos" na Avvoka ao final do dia.
+
+- Em caso de valores de R$ não for obrigado ter valores por extenso criar uma operação: OP_ATRIBUTOS>Concatenar>(dentro colocar as API's por extenso), é obrigatório colocar o API_VALOR_XXXXXX_BRL_EXT, mas haverá casos em que não será pedido para aparecer no documento.
+
+- Colocar comentário no último Save do que foi feito ou aleterado (commit).
+
+- Por padrão os valores serão sempre em MINÚSCULO, com exceção do Yes e No e siglas de estado, em botões de rádio, caixas de seleção, etc... Em casos de sigla de estado também é possível criar uma operação>maiúscula>atributo
 
 ## ✅ Operações e Loops no Avvoka
 
