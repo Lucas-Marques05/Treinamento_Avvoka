@@ -47,6 +47,8 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 
 - Texto explicativo azul(226ce0), negrito e em CAIXA ALTA
 
+- Negrito ** **Exemplo** **
+
 - Itálico nas caixas de seleção utilizando _ _Exemplo_ _
 
 - Itálico nas dicas como exemplo _ _(Os campos que contem a tag [AUTO] serão preenchidos automaticamente)_ _
