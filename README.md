@@ -47,7 +47,11 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 
 - Texto explicativo azul(226ce0), negrito e em CAIXA ALTA
 
-- Itálico nas caixas de seleção
+- Negrito ** **Exemplo** **
+
+- Itálico nas caixas de seleção utilizando _ _Exemplo_ _
+
+- Itálico nas dicas como exemplo _ _(Os campos que contem a tag [AUTO] serão preenchidos automaticamente)_ _
 
 - Gênero = condicionar colocando variaveis de masculino e feminino, Nacionalidade ser uma lista aberta
 
@@ -66,7 +70,7 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 
 - Em caso de valores de R$ não for obrigado ter valores por extenso criar uma operação: OP_ATRIBUTOS>Concatenar>(dentro colocar as API's por extenso), é obrigatório colocar o API_VALOR_XXXXXX_BRL_EXT, mas haverá casos em que não será pedido para aparecer no documento.
 
-- Colocar comentário no último Save do que foi feito ou aleterado (commit).
+- Colocar comentário no último Save do que foi feito ou aleterado (commit), e conferir o Histórico para ver alterações passadas.
 
 - Por padrão os valores serão sempre em MINÚSCULO, com exceção do Yes e No e siglas de estado, em botões de rádio, caixas de seleção, etc... Em casos de sigla de estado também é possível criar uma operação>maiúscula>atributo
 
