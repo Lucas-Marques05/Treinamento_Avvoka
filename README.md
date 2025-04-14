@@ -316,6 +316,23 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 ### OBS 18: Aqui configuramos as API's que vão ser usadas, por padrão **IRF_XXXXXX_CPF**, **IRF_XXXXXX_CNPJ**, **ICEP_XXXXXX_CEP** e **API_VALOR_XXXXXX_BRL**.
 
 ---
+## 👨‍💻 Outras operações 
+![Questionário](/imgs/49.png)
+### OBS 19: Operação para calcular de uma data à outra, neste caso os meses.
+---
+![Questionário](/imgs/50.png)
+### OBS 20: Operação matemática de multiplicação.
+---
+![Questionário](/imgs/51.png)
+### OBS 21: Operação matemática de soma, simples.
+---
+![Questionário](/imgs/52.png)
+### OBS 22: Operação para fazer um cálculo de quantidade de preliminares para aparecer ou não o título.
+---
+![Questionário](/imgs/53.png)
+### OBS 22.1: Operação para fazer um cálculo de quantidade de preliminares para aparecer ou não o título (CONTINUAÇÃO).
+
+---
 
 ## 🚀 Conclusão
 Seguindo este guia, é possível automatizar contratos, configurar variáveis, integrar APIs e personalizar documentos com eficiência na plataforma Avvoka.
