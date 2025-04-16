@@ -74,6 +74,8 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 
 - Por padrão os valores serão sempre em MINÚSCULO, com exceção do Yes e No e siglas de estado, em botões de rádio, caixas de seleção, etc... Em casos de sigla de estado também é possível criar uma operação>maiúscula>atributo
 
+- **AO CLONAR UM MODELO, APERTAR EM UNPUBLISH**
+
 ## ✅ Operações e Loops no Avvoka
 
  Nome das variaveis das operações começam com OP_XXXX_XXX
