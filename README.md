@@ -31,6 +31,7 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 - Criar Estilo padrão (sem negrito ou itálico)
 - Uso do TAB para mudar o nível da numeração
 - Nome dos estilos com padrão `Adoc_Corpo`, `Adoc_Recuo`, `Adoc_Numeracao`, `Adoc_Citacao`, etc.
+- Verificar se há realce no documento indo na opção Design>Cor da página>E verificar se possui outra cor
 
 ---
 
@@ -41,6 +42,7 @@ ATENTAR-SE A DETALHES PEQUENOS, ERROS E DIFERENÇAS
 - **Atentar-se aos espaços entre vírgulas** (não colocar vírgulas dentro de variáveis).
 - Criar variáveis no padrão `SNAKE_CASE` e sem acentos.
 - Variáveis padrão como `POLO_ATIVO`, `POLO_PASSIVO`, `DATA_DOC` e `NUM_VAR`.
+- Biblioteca de Atributos: para criar variáveis que podem ser utilizadas em outros modelos, ela já estará configurada.
 - Para criar um bloco vazio, usar um ponto final `.` pintado da cor de fundo do documento.
 - Seção
 - ##CAIXA ALTA
